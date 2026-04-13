@@ -1,33 +1,33 @@
-Unos Podataka Via Scanner / User Input via Scanner
+Simuliranje TVa / Simulating a TV
 
 EN
 
-A Java exercise introducing the Scanner class for reading user input from the console. The program lets the user enter any number of products with a name and price, stores them in an ArrayList, and then prints all entries.
+A Java exercise that simulates basic TV functionality to practice conditional logic. The program creates a TV object and runs it through various states - turning on/off, adjusting volume, muting - to explore how different if conditions behave in real-world scenarios.
 
 What I practiced:
 
-Using Scanner to read user input from the console
+Writing and calling methods on a custom object
 
-Storing and managing objects in an ArrayList
+Using if statements to handle multiple possible states
 
-Using a for loop to iterate through user entries
+Simulating real-world behavior through object state changes
 
-Working with custom objects and getters across packages
+Handling edge cases (e.g. adjusting volume when TV is off, max volume limits)
 
-Handling different data types (String, float, int)
+Taking user input via Scanner for dynamic volume control
 
 SR
 
-Java vežba koja uvodi Scanner klasu za čitanje korisničkog unosa iz konzole. Program omogućava korisniku da unese bilo koji broj proizvoda sa imenom i cenom, čuva ih u ArrayList-i, a zatim ispisuje sve unose.
+Java vežba koja simulira osnovne funkcionalnosti televizora radi vežbanja uslovne logike. Program kreira objekat TV-a i prolazi kroz različita stanja - uključivanje/isključivanje, podešavanje jačine zvuka, utišavanje - kako bi istražio kako se različiti if uslovi ponašaju u realnim situacijama.
 
 Šta sam vežbao:
 
-Korišćenje Scanner-a za čitanje korisničkog unosa iz konzole
+Pisanje i pozivanje metoda na prilagođenom objektu
 
-Čuvanje i upravljanje objektima u ArrayList-i
+Korišćenje if naredbi za rukovanje više mogućih stanja
 
-Korišćenje for petlje za iteraciju kroz unose korisnika
+Simuliranje ponašanja iz stvarnog sveta kroz promene stanja objekta
 
-Rad sa prilagođenim objektima i geterima kroz pakete
+Rukovanje graničnim slučajevima (npr. podešavanje jačine zvuka kada je TV isključen, ograničenja maksimalne jačine zvuka)
 
-Rukovanje različitim tipovima podataka (String, float, int)
+Unos podataka od korisnika putem Scanner-a za dinamičku kontrolu jačine zvuka
